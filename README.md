@@ -595,6 +595,15 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-1
   - Auto-discovery of local Ollama models
 
 
+- [Statewave](https://github.com/smaramwbc/statewave) - Deterministic memory runtime for AI agents
+
+  - Compiles events into structured memories
+  - Deterministic context assembly
+  - Provenance-linked memory retrieval
+  - Shared memory for long-running agent workflows
+  - Self-hosted on PostgreSQL + pgvector
+
+
 - [auto-co](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI company OS
   with 14 specialized agents that run a startup end-to-end
 
