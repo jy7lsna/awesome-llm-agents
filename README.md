@@ -530,7 +530,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-07-1
   - Built-in memory fabric with vector search
     
 
-- [MemClaw](https://github.com/caura-ai/memclaw) - Governed shared memory platform for AI agents and agent fleets
+- [MemClaw](https://github.com/caura-ai/caura-memclaw) - Governed shared memory platform for AI agents and agent fleets
 
   - Persistent memory across sessions
   - Cross-agent knowledge sharing
